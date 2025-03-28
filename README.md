@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanyousuf20&label=Profile%20views&color=0e75b6&style=flat" alt="farhanyousuf20" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanyousuf20" alt="farhanyousuf20" /></a> </p>
-
 ## 🏆 Achievements
 - **ICPC Asia-West Finalist** - 2021 & 2023 Asia-West Continent Final
 - **24th Place** - ICPC Dhaka Regional Contest 2021
