@@ -16,7 +16,7 @@
 
 ## 💻 Skills
 ### **Technical Skills**
-- **Programming Languages:** C, C++, Python, HTML, CSS, JavaScript
+- **Programming Languages:** C, C++, Python, Java, HTML, CSS, JavaScript
 - **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Competitive Programming, Database Management
 - **Tools & Technologies:** Git, GitHub, Microsoft Office (Excel, Word, PowerPoint)
 
