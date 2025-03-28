@@ -19,7 +19,7 @@
 A game developed using **iGraphics** as a first-year project, collaborated with a team of three.
 [GitHub Repository](https://github.com/ThunderWolves/Dead_Island_2)
 
-📫 How to reach me **farhanyousuf2019@gmail.com**
+📫 ####**How to reach me** **farhanyousuf2019@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
