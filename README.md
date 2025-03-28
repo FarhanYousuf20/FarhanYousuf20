@@ -16,16 +16,6 @@
 - **Top 0.3%** - LeetCode ([Profile](https://leetcode.com/Farhan20/))
 - **4000+ Problems Solved** across Codeforces, CodeChef, LeetCode, Atcoder, and more.
 
-
-## 📫 Connect with Me
-- 📧 Email: [farhanyousuf2019@gmail.com](mailto:farhanyousuf2019@gmail.com)
-- 💼 LinkedIn: [farhanyousuf20](https://www.linkedin.com/in/farhanyousuf20)
-- 🏆 Codeforces: [DUDE](https://codeforces.com/profile/_DUDE_)
-- ⚡ LeetCode: [Farhan20](https://leetcode.com/Farhan20/)
-- 📜 CodeChef: [Farhan20](https://www.codechef.com/users/Farhan20)
-- 🏅 Atcoder: [Farhan20](https://atcoder.jp/users/Farhan20)
-
-
 📫 How to reach me **farhanyousuf2019@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
