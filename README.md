@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Farhan Yousuf</h1>
 <h3 align="center">A passionate Competitive Programmer and Problem Solver from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanyousuf20&label=Profile%20views&color=0e75b6&style=flat" alt="farhanyousuf20" /> </p>
-
 ## 🏆 Achievements
 - **ICPC Asia-West Finalist** - 2021 & 2023 Asia-West Continent Final
 - **24th Place** - ICPC Dhaka Regional Contest 2021
