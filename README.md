@@ -14,6 +14,11 @@
 - **Top 0.3%** - LeetCode ([Profile](https://leetcode.com/Farhan20/))
 - **4000+ Problems Solved** across Codeforces, CodeChef, LeetCode, Atcoder, and more.
 
+## 🔥 Projects
+### **Dead Island 2** 🎮
+A game developed using **iGraphics** as a first-year project, collaborated with a team of three.
+[GitHub Repository](https://github.com/ThunderWolves/Dead_Island_2)
+
 📫 How to reach me **farhanyousuf2019@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
