@@ -6,14 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanyousuf20" alt="farhanyousuf20" /></a> </p>
 
 ## 🏆 Achievements
-- **ICPC Finalist** - 2021 & 2023 Asia-West Continent Final
+- **ICPC Asia-West Finalist** - 2021 & 2023 Asia-West Continent Final
 - **24th Place** - ICPC Dhaka Regional Contest 2021
 - **13th Place** - ICPC Dhaka Regional Preliminary Contest 2022
 - **10th Place** - NCPC 2023
 - **Finalist** - SRBD Code Contest 2022
 - **Candidate Master** - Codeforces ([Profile](https://codeforces.com/profile/_DUDE_))
 - **6-Star Coder** - CodeChef ([Profile](https://www.codechef.com/users/Farhan20))
-- **Top 0.4%** - LeetCode ([Profile](https://leetcode.com/Farhan20/))
+- **Top 0.3%** - LeetCode ([Profile](https://leetcode.com/Farhan20/))
 - **4000+ Problems Solved** across Codeforces, CodeChef, LeetCode, Atcoder, and more.
 
 - 📫 How to reach me **farhanyousuf2019@gmail.com**
