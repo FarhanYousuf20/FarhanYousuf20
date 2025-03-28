@@ -31,3 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanyousuf20&show_icons=true&locale=en" alt="farhanyousuf20" /></p>
 
+
+---
+🌟 **"Keep coding, keep growing!"**
