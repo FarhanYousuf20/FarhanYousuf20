@@ -14,6 +14,19 @@
 - **Top 0.3%** - LeetCode ([Profile](https://leetcode.com/Farhan20/))
 - **4000+ Problems Solved** across Codeforces, CodeChef, LeetCode, Atcoder, and more.
 
+## 💻 Skills
+### **Technical Skills**
+- **Programming Languages:** C, C++, Python, HTML, CSS, JavaScript
+- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Competitive Programming, Database Management
+- **Tools & Technologies:** Git, GitHub, Microsoft Office (Excel, Word, PowerPoint)
+
+### **Soft Skills**
+- Teamwork
+- Time Management
+- Critical Thinking
+- Adaptability
+- Communication
+
 ## 🔥 Projects
 ### **Dead Island 2** 🎮
 A game developed using **iGraphics** as a first-year project, collaborated with a team of three.
