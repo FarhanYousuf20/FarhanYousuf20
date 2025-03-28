@@ -16,7 +16,7 @@
 - **Top 0.3%** - LeetCode ([Profile](https://leetcode.com/Farhan20/))
 - **4000+ Problems Solved** across Codeforces, CodeChef, LeetCode, Atcoder, and more.
 
-- 📫 How to reach me **farhanyousuf2019@gmail.com**
+📫 How to reach me **farhanyousuf2019@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
